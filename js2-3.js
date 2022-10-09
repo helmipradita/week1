@@ -1,4 +1,3 @@
-
 function SeleksiNilai(nilaiAwal, nilaiAkhir, dataArray){
     function compareNumbers(a, b) {
         return a - b;
